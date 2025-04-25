@@ -1,0 +1,20 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Python files
+*.py text diff=python
+
+# Images should be treated as binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+
+# JSON files
+*.json text
+
+# Markdown files
+*.md text diff=markdown
+
+# Exclude these files from GitHub language statistics
+CartoonFilter/__pycache__/* linguist-generated=true 
