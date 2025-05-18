@@ -1,6 +1,6 @@
 # Cartoon Filter Application
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) 
 ![Python](https://img.shields.io/badge/python-3.7+-brightgreen.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.8.0-orange.svg)
 
