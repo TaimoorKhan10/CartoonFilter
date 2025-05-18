@@ -6,7 +6,7 @@
 
 # Images should be treated as binary
 *.jpg binary
-*.jpeg binary
+*.jpeg binary 
 *.png binary
 *.gif binary
 
