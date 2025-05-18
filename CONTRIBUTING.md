@@ -3,7 +3,7 @@
 Thank you for considering contributing to the Cartoon Filter project! This document outlines the process for contributing to the project.
 
 ## Code of Conduct
-
+ 
 By participating in this project, you agree to maintain a respectful and inclusive environment for everyone.
 
 ## How Can I Contribute?
