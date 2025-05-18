@@ -4,7 +4,7 @@
 
 1. Go to https://github.com/new in your web browser
 2. Enter the following information:
-   - Repository name: `CartoonFilter`
+   - Repository name: `CartoonFilter` 
    - Description: `An advanced image processing application that transforms photos into cartoon-style images`
    - Choose "Public" visibility
    - DO NOT check any of the options to initialize the repository with README, .gitignore, or license (we already have these files)
